@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohamed Elmansy
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning  Mobile application Using Flutter
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning  Mobile application Using Flutter 
 - 📫 How to reach me elmansym95@gmail.com
 
 <!---
